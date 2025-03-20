@@ -1,12 +1,15 @@
 //brute approach
 
-let arrayString=inputString.split("")
 
+function isPalindromeWord(inputString){
+
+    let arrayString=inputString.split("")
+    
     let trueArray=[]
-
-    for(i=0;i<=arrayString.length-1;i++){
-        firstLetter=arrayString[i]
-        lastLetter=arrayString[arrayString.length-(i+1)]
+    
+    for(let i=0;i<=arrayString.length-1;i++){
+        let firstLetter=arrayString[i]
+        let lastLetter=arrayString[arrayString.length-(i+1)]
         if(firstLetter==lastLetter){
             trueArray.push('true')
         }else{
@@ -14,9 +17,14 @@ let arrayString=inputString.split("")
         }
         
     }
-    console.log(trueArray)
+    
     if(trueArray.indexOf('false')==-1){
         return console.log('palindrome')
     }else{
         return console.log('not palindrome')
     }
+}
+
+let s = "aobuboa"
+
+isPalindromeWord(s)
