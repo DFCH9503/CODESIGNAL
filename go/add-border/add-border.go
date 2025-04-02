@@ -17,8 +17,10 @@ func addBorder(picture []string)[]string{
 		res = append(res, character+picture[i]+character)
 	} 
 
-	res = append([]string{topBottomBorder}, res...)
-	res = append(res, topBottomBorder)
+	// res = append([]string{topBottomBorder}, res...)
+	// res = append(res, topBottomBorder)  //THIS TWO LINES DO THE SAME THING AS THE LINE 23
+
+	res = append(append([]string{topBottomBorder}, res...), topBottomBorder)
 	return res
 }
 
