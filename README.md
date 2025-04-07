@@ -57,27 +57,19 @@ Each folder contains solutions organized by topic. Each solution file is named a
 |:-----------------------------------------------:|:--------------:|:------:|
 |                     Add Border                    |        ✅       |    ✅   |
 |                 Adjacent Element Product                 |        ✅       |    ✅   |
-|  Longest Substring Without Repeating Characters |        ✅       |    ✅   |
-|          Longest Palindromic Substring          |        ✅       |    ✅   |
-|                Zig Zag Conversion               |        ✅       |    ✅   |
-|                 Reverse Integer                 |        ✅       |    ✅   |
-|             String To Integer (atoi)            |        ✅       |    ✅   |
-|                Palindrome Number                |        ✅       |    ✅   |
-|                 Roman to Integer                |        ✅       |    ✅   |
-|              Longest Common Prefix              |        ✅       |    ✅   |
-|                Valid Parentheses                |        ✅       |    ✅   |
-|              Merge Two Sorted Lists             |        ✅       |    ✅   |
-|       Remove Duplicates From Sorted Array       |        ✅       |    ✅   |
-|                  Remove Element                 |        ✅       |    ✅   |
-| Find the Index of the First Occurence in String |        ✅       |    ✅   |
-|              Search Insert Position             |        ✅       |    ✅   |
-|               Length of Last Word               |        ✅       |    ✅   |
-|                     Plus One                    |        ✅       |    ✅   |
-|                    Add Binary                   |        ✅       |    ✅   |
-|                     Sqrt(x)                     |        ✅       |    ✅   |
-|                 Climbing Stairs                 |        ✅       |    ✅   |
-|       Remove Duplicates From Sorted Array       |        ✅       |    ✅   |
-|                Merge Sorted Array               |        ✅       |    ✅   |
+|  All Longest Strings |        ✅       |    ✅   |
+|          Almost Increasing Sequence          |        ✅       |    ✅   |
+|                Alternating Sums              |        ✅       |    ✅   |
+|                 Are Similar                 |        ✅       |    ✅   |
+|             Array Consecutive            |        ✅       |    ✅   |
+|                Common Character Count                |        ✅       |    ✅   |
+|                 Is Lucky               |        ✅       |    ✅   |
+|              Matrix Element Sum              |        ✅       |    ✅   |
+|                Palindrome Word                |        ✅       |    ✅   |
+|              Reverse Parentheses             |        ✅       |    ✅   |
+|       Shape Area      |        ✅       |    ✅   |
+|                  Sort By Height                 |        ✅       |    ✅   |
+
 
 > 🧠 **More problems added weekly!**
 
