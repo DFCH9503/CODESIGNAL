@@ -55,7 +55,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 
 
 | **Problem**                | **JavaScript** | **Go** |
-|-:-:------------------------|-:-:------------|-:-:----|
+|--:-:-----------------------|--:-:-----------|--:-:---|
 | Add Border                 | ✅              | ✅      |
 | Adjacent Element Product   | ✅              | ✅      |
 | All Longest Strings        | ✅              | ✅      |
