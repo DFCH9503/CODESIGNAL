@@ -70,7 +70,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 | Reverse Parentheses        | ✅              | ✅      |
 | Shape Area                 | ✅              | ✅      |
 | Sort By Height             | ✅              | ✅      |
-| Array Change               | ✅              |       |
+| Array Change               | ✅              | ✅      |
 
 
 > 🧠 **More problems added weekly!**
