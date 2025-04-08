@@ -50,25 +50,27 @@ Each folder contains solutions organized by topic. Each solution file is named a
 🔹 Math & Bit Manipulation 
 🔹 Databases (SQL)
 
+
 ## 📈 Progress Tracker
 
 
-|                   **Problem**                   | **JavaScript** | **Go** |
-|:-----------------------------------------------:|:--------------:|:------:|
-|                     Add Border                    |        ✅       |    ✅   |
-|                 Adjacent Element Product                 |        ✅       |    ✅   |
-|  All Longest Strings |        ✅       |    ✅   |
-|          Almost Increasing Sequence          |        ✅       |    ✅   |
-|                Alternating Sums              |        ✅       |    ✅   |
-|                 Are Similar                 |        ✅       |    ✅   |
-|             Array Consecutive            |        ✅       |    ✅   |
-|                Common Character Count                |        ✅       |    ✅   |
-|                 Is Lucky               |        ✅       |    ✅   |
-|              Matrix Element Sum              |        ✅       |    ✅   |
-|                Palindrome Word                |        ✅       |    ✅   |
-|              Reverse Parentheses             |        ✅       |    ✅   |
-|       Shape Area      |        ✅       |    ✅   |
-|                  Sort By Height                 |        ✅       |    ✅   |
+| **Problem**                | **JavaScript** | **Go** |
+|-:-:------------------------|-:-:------------|-:-:----|
+| Add Border                 | ✅              | ✅      |
+| Adjacent Element Product   | ✅              | ✅      |
+| All Longest Strings        | ✅              | ✅      |
+| Almost Increasing Sequence | ✅              | ✅      |
+| Alternating Sums           | ✅              | ✅      |
+| Are Similar                | ✅              | ✅      |
+| Array Consecutive          | ✅              | ✅      |
+| Common Character Count     | ✅              | ✅      |
+| Is Lucky                   | ✅              | ✅      |
+| Matrix Element Sum         | ✅              | ✅      |
+| Palindrome Word            | ✅              | ✅      |
+| Reverse Parentheses        | ✅              | ✅      |
+| Shape Area                 | ✅              | ✅      |
+| Sort By Height             | ✅              | ✅      |
+| Array Change               | ✅              |       |
 
 
 > 🧠 **More problems added weekly!**
