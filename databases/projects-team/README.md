@@ -29,6 +29,7 @@ For the following table **projectLog**
 |    8   |    James Smith   |       fix fonts       | 2015-11-14 13:54:04 |
 |    9   |   Richard Young  | remove unneeded files | 2015-11-14 00:00:00 |
 |   10   | Michael Williams |       add tests       | 2015-11-09 11:53:00 |
+
 the resulting should be:
 
 |     **name**     |

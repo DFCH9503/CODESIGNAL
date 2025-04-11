@@ -71,7 +71,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 |         Shape Area         |        ✅       |    ✅   |
 |       Sort By Height       |        ✅       |    ✅   |
 |        Array Change        |        ✅       |    ✅   |
-|   Palindrome Rearranging   |        ✅       |        |
+|   Palindrome Rearranging   |        ✅       |    ✅   |
 
 
 > 🧠 **More problems added weekly!**
