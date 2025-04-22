@@ -72,7 +72,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 |       Sort By Height       |        ✅       |    ✅   |
 |        Array Change        |        ✅       |    ✅   |
 |   Palindrome Rearranging   |        ✅       |    ✅   |
-|   Are Equally Strong       |        ✅       |       |
+|   Are Equally Strong       |        ✅       |    ✅   |
 
 
 > 🧠 **More problems added weekly!**
