@@ -19,7 +19,6 @@ func matrixElementsSum(matrix [][]int)int{
 			}
 		}
 	}
-	fmt.Println(matrix)
 
 	for idx := range matrix{
 		for _, val2 := range matrix[idx]{
