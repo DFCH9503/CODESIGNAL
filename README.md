@@ -19,12 +19,12 @@ This repository is designed to:
 ```
 codesignal-solutions/
 ├── databases/
-├── javascript/
+├── js/
 │   ├── problem-1/
 │   ├── problem-2/
 │   ├── problem-3/
 │   └── ...
-├── golang/
+├── go/
 │   ├── problem-1/
 │   ├── problem-2/
 │   ├── problem-3/
@@ -73,7 +73,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 |        Array Change        |        ✅       |    ✅   |
 |   Palindrome Rearranging   |        ✅       |    ✅   |
 |   Are Equally Strong       |        ✅       |    ✅   |
-|Array Maximal Adjacent Difference|        ✅       |       |
+|Array Maximal Adjacent Difference|        ✅       |   ✅    |
 
 
 > 🧠 **More problems added weekly!**
