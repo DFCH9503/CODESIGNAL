@@ -73,6 +73,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 |        Array Change        |        ✅       |    ✅   |
 |   Palindrome Rearranging   |        ✅       |    ✅   |
 |   Are Equally Strong       |        ✅       |    ✅   |
+|Array Maximal Adjacent Difference|        ✅       |       |
 
 
 > 🧠 **More problems added weekly!**
