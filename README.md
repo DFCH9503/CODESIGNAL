@@ -74,7 +74,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 |   Palindrome Rearranging   |        ✅       |    ✅   |
 |   Are Equally Strong       |        ✅       |    ✅   |
 |Array Maximal Adjacent Difference|        ✅       |   ✅    |
-|   Is IPv4 Address          |        ✅       |       |
+|   Is IPv4 Address          |        ✅       |    ✅   |
 
 
 > 🧠 **More problems added weekly!**
