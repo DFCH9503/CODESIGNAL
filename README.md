@@ -54,7 +54,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 ## 📈 Progress Tracker
 
 
-|         **Problem**        | **JavaScript** | **Go** |
+|         **Problem**        | **Js** | **Go** |
 |:--------------------------:|:--------------:|:------:|
 |         Add Border         |        ✅       |    ✅   |
 |  Adjacent Element Product  |        ✅       |    ✅   |
@@ -74,6 +74,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 |   Palindrome Rearranging   |        ✅       |    ✅   |
 |   Are Equally Strong       |        ✅       |    ✅   |
 |Array Maximal Adjacent Difference|        ✅       |   ✅    |
+|   Is IPv4 Address          |        ✅       |       |
 
 
 > 🧠 **More problems added weekly!**
