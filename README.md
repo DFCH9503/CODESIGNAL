@@ -75,6 +75,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 |   Are Equally Strong       |        ✅       |    ✅   |
 |Array Maximal Adjacent Difference|        ✅       |   ✅    |
 |   Is IPv4 Address          |        ✅       |    ✅   |
+|   Avoid Obstacles          |        ✅       |       |
 
 
 > 🧠 **More problems added weekly!**
