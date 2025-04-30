@@ -1,5 +1,5 @@
 function avoidObstacles(inputArray){
-    for(let i=1; i < inputArray.length ; i++){
+    for(let i=1; ; i++){
     if(inputArray.every(e=>e%i!=0)){
         return i
     }
