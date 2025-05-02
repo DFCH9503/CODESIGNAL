@@ -76,7 +76,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 |Array Maximal Adjacent Difference|        ✅       |   ✅    |
 |   Is IPv4 Address          |        ✅       |    ✅   |
 |   Avoid Obstacles          |        ✅       |    ✅   |
-|   Box Blur                 |        ✅       |       |
+|   Box Blur                 |        ✅       |    ✅   |
 
 
 > 🧠 **More problems added weekly!**

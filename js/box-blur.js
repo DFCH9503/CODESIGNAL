@@ -6,7 +6,6 @@ function boxBlur(image){
             const top=image[i][j]+image[i][j+1]+image[i][j+2]
             const mid=image[i+1][j]+image[i+1][j+1]+image[i+1][j+2]
             const bot=image[i+2][j]+image[i+2][j+1]+image[i+2][j+2]
-            console.log([top,mid,bot])
             partialMatrix.push(Math.floor(((top+mid+bot)/9))) 
     }
     result.push(partialMatrix)
