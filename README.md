@@ -77,6 +77,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 |   Is IPv4 Address          |        ✅       |    ✅   |
 |   Avoid Obstacles          |        ✅       |    ✅   |
 |   Box Blur                 |        ✅       |    ✅   |
+|   Array Replace            |        ✅       |       |
 
 
 > 🧠 **More problems added weekly!**
