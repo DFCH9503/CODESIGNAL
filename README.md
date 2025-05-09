@@ -78,7 +78,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 |   Avoid Obstacles          |        ✅       |    ✅   |
 |   Box Blur                 |        ✅       |    ✅   |
 |   Array Replace            |        ✅       |    ✅   |
-|   Minesweeper              |        ✅       |       |
+|   Minesweeper              |        ✅       |    ✅   |
 
 
 > 🧠 **More problems added weekly!**
