@@ -79,7 +79,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 |   Box Blur                 |        ✅       |    ✅   |
 |   Array Replace            |        ✅       |    ✅   |
 |   Minesweeper              |        ✅       |    ✅   |
-|   Even Digits Onl          |        ✅       |       |
+|   Even Digits Onl          |        ✅       |    ✅   |
 
 
 > 🧠 **More problems added weekly!**
