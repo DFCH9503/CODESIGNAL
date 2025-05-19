@@ -81,7 +81,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 |   Minesweeper              |        ✅       |    ✅   |
 |   Even Digits Only         |        ✅       |    ✅   |
 |   Variable Name            |        ✅       |    ✅   |
-|   Alphabetic Shift         |        ✅       |       |
+|   Alphabetic Shift         |        ✅       |    ✅   |
 
 
 > 🧠 **More problems added weekly!**
