@@ -80,7 +80,8 @@ Each folder contains solutions organized by topic. Each solution file is named a
 |   Array Replace            |        ✅       |    ✅   |
 |   Minesweeper              |        ✅       |    ✅   |
 |   Even Digits Only         |        ✅       |    ✅   |
-|   Varible Name             |        ✅       |    ✅   |
+|   Variable Name            |        ✅       |    ✅   |
+|   Alphabetic Shift         |        ✅       |       |
 
 
 > 🧠 **More problems added weekly!**

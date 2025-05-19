@@ -17,3 +17,5 @@ function addBorder(picture){
 
 let picture = ["abc", "ded"]
 console.log(addBorder(picture))
+
+
