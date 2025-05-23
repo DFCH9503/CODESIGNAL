@@ -82,6 +82,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 |   Even Digits Only         |        ✅       |    ✅   |
 |   Variable Name            |        ✅       |    ✅   |
 |   Alphabetic Shift         |        ✅       |    ✅   |
+|   Chess Board Cell Color   |        ✅       |       |
 
 
 > 🧠 **More problems added weekly!**
