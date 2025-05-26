@@ -84,6 +84,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 |   Alphabetic Shift         |        ✅       |    ✅   |
 |   Chess Board Cell Color   |        ✅       |    ✅   |
 |   Circle of Numbers        |        ✅       |    ✅   |
+|   Deposit Profit           |        ✅       |       |
 
 
 > 🧠 **More problems added weekly!**
