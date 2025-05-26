@@ -83,7 +83,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 |   Variable Name            |        ✅       |    ✅   |
 |   Alphabetic Shift         |        ✅       |    ✅   |
 |   Chess Board Cell Color   |        ✅       |    ✅   |
-|   Circle of Numbers        |        ✅       |       |
+|   Circle of Numbers        |        ✅       |    ✅   |
 
 
 > 🧠 **More problems added weekly!**
