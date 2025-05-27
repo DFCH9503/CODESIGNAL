@@ -85,6 +85,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 |   Chess Board Cell Color   |        ✅       |    ✅   |
 |   Circle of Numbers        |        ✅       |    ✅   |
 |   Deposit Profit           |        ✅       |    ✅   |
+|   Absolute Values Sum Minimization |        ✅       |       |
 
 
 > 🧠 **More problems added weekly!**
