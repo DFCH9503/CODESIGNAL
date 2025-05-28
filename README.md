@@ -86,6 +86,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 |   Circle of Numbers        |        ✅       |    ✅   |
 |   Deposit Profit           |        ✅       |    ✅   |
 |   Absolute Values Sum Minimization |        ✅       |  ✅     |
+|   Extract Each Kth         |        ✅       |       |
 
 
 > 🧠 **More problems added weekly!**
