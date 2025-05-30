@@ -86,7 +86,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 |   Deposit Profit           |        ✅       |    ✅   |
 |   Absolute Values Sum Minimization |        ✅       |  ✅     |
 |   Extract Each Kth         |        ✅       |    ✅   |
-|   Strings Rearrangement    |        ✅       |       |
+|   Strings Rearrangement    |        ✅       |    ✅   |
 
 
 > 🧠 **More problems added weekly!**
