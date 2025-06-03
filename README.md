@@ -87,6 +87,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 |   Absolute Values Sum Minimization |        ✅       |  ✅     |
 |   Extract Each Kth         |        ✅       |    ✅   |
 |   Strings Rearrangement    |        ✅       |    ✅   |
+|   First Digit              |        ✅       |       |
 
 
 > 🧠 **More problems added weekly!**
