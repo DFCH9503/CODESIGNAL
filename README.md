@@ -88,6 +88,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 |   Extract Each Kth         |        ✅       |    ✅   |
 |   Strings Rearrangement    |        ✅       |    ✅   |
 |   First Digit              |        ✅       |    ✅   |
+|   Different Symbols Naive  |        ✅       |       |
 
 
 > 🧠 **More problems added weekly!**
