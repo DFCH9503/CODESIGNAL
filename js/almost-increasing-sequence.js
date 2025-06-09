@@ -2,7 +2,7 @@ function almostIncreasingSequence(sequence){
     let counter = 0
     const s = sequence
 
-    for (let i=1 ; i<s.length ; i++){
+    for (let i = 1 ; i < s.length ; i++){
         if (s[i-1] >= s[i]){
             counter ++
             if (counter > 1) return false

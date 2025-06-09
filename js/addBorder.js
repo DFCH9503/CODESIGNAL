@@ -1,12 +1,12 @@
 function addBorder(picture){
-    let character='*'
-    let width=picture[0].length
-    let topBottomBorder=character.repeat(width+2)
+    let character = '*'
+    let width = picture[0].length
+    let topBottomBorder = character.repeat(width+2)
 
-    let partialArray=[]
+    let partialArray = []
 
-    for(i=0;i<picture.length;i++){
-        partialArray.push(character+picture[i]+character)
+    for(i = 0; i < picture.length; i++){
+        partialArray.push(character + picture[i] + character)
     }
 
     partialArray.unshift(topBottomBorder)

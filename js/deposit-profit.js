@@ -1,6 +1,6 @@
 function depositProfit(deposit, rate, threshold){
     let n = 0
-    while(deposit<threshold){
+    while(deposit < threshold){
         n++
         deposit += deposit * rate / 100
     }

@@ -1,11 +1,11 @@
 function arrayMaximalAdjacentDifference(inputArray){
-    let diffArray=[]
-    let maxDiff=0
+    let diffArray = []
+    let maxDiff = 0
     
-    for(i=0;i<inputArray.length-1;i++){
-        diffArray.push(inputArray[i]-inputArray[i+1])
-        if(diffArray[i]<0){
-            diffArray[i]*=-1
+    for(i = 0;i < inputArray.length -1; i++){
+        diffArray.push(inputArray[i] - inputArray[i + 1])
+        if(diffArray[i] < 0){
+            diffArray[i] *= -1
         }
     }
     

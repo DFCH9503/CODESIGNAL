@@ -1,8 +1,8 @@
 function makeArrayConsecutive2(statues){
-    let maxArray=Math.max(...statues)
-    let minArray=Math.min(...statues)
-    let diffArray=maxArray-minArray
-    let result= (diffArray-statues.length)+1
+    let maxArray = Math.max(...statues)
+    let minArray = Math.min(...statues)
+    let diffArray = maxArray-minArray
+    let result = (diffArray - statues.length) + 1
     return result
 
 }
