@@ -89,6 +89,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 |   Strings Rearrangement    |        ✅       |    ✅   |
 |   First Digit              |        ✅       |    ✅   |
 |   Different Symbols Naive  |        ✅       |    ✅   |
+|   Array Max Consecutive Sum|        ✅       |       |
 
 
 > 🧠 **More problems added weekly!**
