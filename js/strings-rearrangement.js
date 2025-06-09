@@ -3,7 +3,7 @@ function stringsRearrangement(inputArray){
     let solution = []
     
     function bt () {
-        for (let i = 0; i<inputArray.length; i++) {
+        for (let i = 0; i < inputArray.length; i++) {
             if(ret) break
             solution.push(inputArray.splice(i,1)[0])
             if (inputArray.length === 0) {
@@ -18,8 +18,8 @@ function stringsRearrangement(inputArray){
     }
     function checkSolution () {
         for (let i = 0; i < solution.length - 1; i++){
-            let diff =0
-            for (let j = 0; j<solution[i].length; j++) {
+            let diff = 0
+            for (let j = 0; j < solution[i].length; j++) {
                 if (solution[i][j] !== solution[i+1][j]){
                     diff++
                 }

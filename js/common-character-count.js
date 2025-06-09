@@ -6,7 +6,7 @@ function commonCharacterCount(s1, s2){
 
     s1Split.forEach(element => {
         if(s2Split.includes(element)){
-            commonCharacters++
+            commonCharacters ++
             s2Split.splice(s2Split.indexOf(element), 1)
         }
         
