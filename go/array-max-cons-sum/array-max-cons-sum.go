@@ -23,8 +23,6 @@ func arrayMaxConsecutiveSum(inputArray []int, k int)int{
 		}
 	}
 
-	fmt.Println(max)
-
 	return max
 } 
 
