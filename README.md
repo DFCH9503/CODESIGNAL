@@ -90,7 +90,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 |   First Digit              |        ✅       |    ✅   |
 |   Different Symbols Naive  |        ✅       |    ✅   |
 |   Array Max Consecutive Sum|        ✅       |    ✅   |
-|   Growing Plant            |        ✅       |       |
+|   Growing Plant            |        ✅       |    ✅   |
 
 
 > 🧠 **More problems added weekly!**
