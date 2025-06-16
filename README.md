@@ -91,6 +91,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 |   Different Symbols Naive  |        ✅       |    ✅   |
 |   Array Max Consecutive Sum|        ✅       |    ✅   |
 |   Growing Plant            |        ✅       |    ✅   |
+|   Knapsack Light           |        ✅       |       |
 
 
 > 🧠 **More problems added weekly!**
