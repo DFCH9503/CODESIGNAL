@@ -2,14 +2,20 @@ package main
 
 import(
 	"fmt"
-	"math"
 )
 
+
+func max(a, b int) int{
+	if a < b{
+		return b
+	}
+	return a
+}
 func knapsackLight(value1, weight1, value2, weight2, maxW int) int{
 	if maxW >= (weight1 + weight2){
         return value1 + value2
     }else if maxW >= weight1 && maxW >= weight2{
-		return int(math.Max(float64(value1), float64(value2)))
+		return max(value1, value2)
     }else if maxW >= weight1 && maxW < weight2{
         return value1
     }else if maxW >= weight2 && maxW < weight1{
