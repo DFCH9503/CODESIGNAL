@@ -8,7 +8,7 @@ The diary is represented as a table **diary**, which has the following columns:
 - **travel_date**: the date the trip began;
 - **country**: the country to which you traveled.
 
-Given this **diary** table, create a semicolon-separated list of all the distinct countries you’ve visited, sorted lexicographically, and put the list in a table that has a single countries column.
+Given this **diary** table, create a semicolon-separated list of all the distinct countries you’ve visited, sorted lexicographically, and put the list in a table that has a single `countries` column.
 
 `Note: String A is lexicographically smaller than string B either if A is a prefix of B (and A ≠ B), or if there exists such index i (0 ≤ i < min(A.length, B.length)), that Ai < Bi, and for any j (0 ≤ j < i) Aj = Bj. The lexicographic comparison of strings is implemented by operator < in modern programming languages.`
 
