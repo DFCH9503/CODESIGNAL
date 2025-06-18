@@ -92,6 +92,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 |   Array Max Consecutive Sum|        ✅       |    ✅   |
 |   Growing Plant            |        ✅       |    ✅   |
 |   Knapsack Light           |        ✅       |    ✅   |
+|   Longest Digit Prefix     |        ✅       |       |
 
 
 > 🧠 **More problems added weekly!**
