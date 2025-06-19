@@ -93,6 +93,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 |   Growing Plant            |        ✅       |    ✅   |
 |   Knapsack Light           |        ✅       |    ✅   |
 |   Longest Digit Prefix     |        ✅       |    ✅   |
+|   Digit Degree             |        ✅       |       |
 
 
 > 🧠 **More problems added weekly!**
