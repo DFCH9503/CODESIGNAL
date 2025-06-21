@@ -94,6 +94,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 |   Knapsack Light           |        ✅       |    ✅   |
 |   Longest Digit Prefix     |        ✅       |    ✅   |
 |   Digit Degree             |        ✅       |    ✅   |
+|   Bishop Degree            |        ✅       |       |
 
 
 > 🧠 **More problems added weekly!**
