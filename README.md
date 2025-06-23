@@ -55,7 +55,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 
 |         **Problem**        | **Js** | **Go** |
 |:--------------------------:|:--------------:|:------:|
-|         Add Border         |        [✅](C:\Users\57302\Desktop\codesignal\js\addBorder.js)       |    ✅   |
+|         Add Border         |        [✅](js\addBorder.js)       |    ✅   |
 |  Adjacent Element Product  |        ✅       |    ✅   |
 |     All Longest Strings    |        ✅       |    ✅   |
 | Almost Increasing Sequence |        ✅       |    ✅   |
@@ -96,7 +96,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 |   Digit Degree             |        ✅       |    ✅   |
 |   Bishop Degree            |        ✅       |    ✅   |
 |   Beautiful String         |        ✅       |    ✅   |
-|   Find Email Domain        |        ✅       |       |
+|   Find Email Domain        |        ✅       |    ✅   |
 
 
 > 🧠 **More problems added weekly!**
