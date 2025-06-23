@@ -96,6 +96,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 |   Digit Degree             |        ✅       |    ✅   |
 |   Bishop Degree            |        ✅       |    ✅   |
 |   Beautiful String         |        ✅       |    ✅   |
+|   Find Email Domain        |        ✅       |       |
 
 
 > 🧠 **More problems added weekly!**
