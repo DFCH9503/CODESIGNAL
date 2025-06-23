@@ -55,7 +55,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 
 |         **Problem**        | **Js** | **Go** |
 |:--------------------------:|:--------------:|:------:|
-|         Add Border         |        [✅](js\addBorder.js)       |    ✅   |
+|         Add Border         |        [✅](js/addBorder.js)       |    ✅   |
 |  Adjacent Element Product  |        ✅       |    ✅   |
 |     All Longest Strings    |        ✅       |    ✅   |
 | Almost Increasing Sequence |        ✅       |    ✅   |
