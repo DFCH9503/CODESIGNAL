@@ -50,7 +50,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 🔹 Databases (SQL)
 
 
-## 📈 Progress Tracker
+## 📈 Progress Tracker (Problems)
 
 
 |         **Problem**        | **Js** | **Go** |
@@ -98,6 +98,33 @@ Each folder contains solutions organized by topic. Each solution file is named a
 |   Beautiful String         |        ✅       |    ✅   |
 |   Find Email Domain        |        ✅       |    ✅   |
 
+
+## 📈 Progress Tracker (Databases)
+
+|        **Problem**        |                                 **Check**                                 |
+|:-------------------------:|:-------------------------------------------------------------------------:|
+| Automatic   Notifications |     [✅](databases/automatic-notifications/automatic-notifications.sql)    |
+|    Constest Leaderboard   |        [✅](databases/constest-leaderboard/constest-leaderboard.sql)       |
+|       Countries Info      |              [✅](databases/countries-info/countries-info.sql)             |
+|     Countres Selection    |          [✅](databases/countres-selection/countres-selection.sql)         |
+|  Expressions Verification |    [✅](databases/expressions-verification/expressions-verification.sql)   |
+|     Grade Distribution    |          [✅](databases/grade-distribution/grade-distribution.sql)         |
+|        Item Counts        |                 [✅](databases/item-counts/item-counts.sql)                |
+|    Mischievous Nephews    |         [✅](databases/mischievous-nephews/mischievous-nephews.sql)        |
+|    Monthly Scholarships   |        [✅](databases/monthly-scholarships/monthly-scholarships.sql)       |
+|       Most Expensive      |              [✅](databases/most-expensive/most-expensive.sql)             |
+|      Movie Directors      |             [✅](databases/movie-directors/movie-directors.sql)            |
+|      New Subscribers      |             [✅](databases/new-subscribers/new-subscribers.sql)            |
+|        Project List       |                [✅](databases/project-list/project-list.sql)               |
+|       Projects Team       |               [✅](databases/projects-team/projects-team.sql)              |
+|      Security Breach      |             [✅](databases/security-breach/security-breach.sql)            |
+|       Soccer Players      |              [✅](databases/soccer-players/soccer-players.sql)             |
+|   Suspects Investigation  |      [✅](databases/suspects-investigation/suspects-investigation.sql)     |
+|  Suspects Investigation 2 |    [✅](databases/suspects-investigation-2/suspects-investigation-2.sql)   |
+|         Test Check        |                  [✅](databases/test-check/test-check.sql)                 |
+|        Travel Diary       |                [✅](databases/travel-diary/travel-diary.sql)               |
+|     Users By Continent    |          [✅](databases/users-by-continent/users-by-continent.sql)         |
+|     Voleyball Results     |           [✅](databases/voleyball-results/voleyball-results.sql)          |
 
 > 🧠 **More problems added weekly!**
 
