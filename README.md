@@ -97,6 +97,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 |            Bishop Degree            |        [✅](js/bishop-degree.js)        |               [✅](go/bishop-degree/bishop-degree.go)               |
 |           Beautiful String          |       [✅](js/beautiful-string.js)      |            [✅](go/beautiful-string/beautiful-string.go)            |
 |          Find Email Domain          |      [✅](js/find-email-domain.js)      |           [✅](go/find-email-domain/find-email-domain.go)           |
+|          Build Palindrome           |      [✅](js/build-palindrome.js)       |                      |
 
 
 ## 📈 Progress Tracker (Databases)

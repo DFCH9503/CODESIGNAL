@@ -3,7 +3,6 @@ function differentSymbolsNaive(s){
 
     let string = s.split("")
     let stringSet = new Set(string)
-    console.log(stringSet)
     return stringSet.size
 }
 
