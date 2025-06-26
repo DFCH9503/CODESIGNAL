@@ -98,6 +98,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 |           Beautiful String          |       [✅](js/beautiful-string.js)      |            [✅](go/beautiful-string/beautiful-string.go)            |
 |          Find Email Domain          |      [✅](js/find-email-domain.js)      |           [✅](go/find-email-domain/find-email-domain.go)           |
 |          Build Palindrome           |      [✅](js/build-palindrome.js)       |           [✅](go/build-palindrome/build-palindrome.go)             |
+|          Election Winners           |      [✅](js/election-winners.js)       |                        |
 
 
 ## 📈 Progress Tracker (Databases)
