@@ -1,6 +1,6 @@
 function electionWinners(votes, k){
-    let maxVotesBefore=Math.max(...votes)
-    let possibleWinners=0
+    let maxVotesBefore = Math.max(...votes)
+    let possibleWinners = 0
 
     
     if(k==0){
