@@ -100,7 +100,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 |          Build Palindrome           |      [✅](js/build-palindrome.js)       |           [✅](go/build-palindrome/build-palindrome.go)             |
 |          Election Winners           |      [✅](js/election-winners.js)       |           [✅](go/election-winners/election-winners.go)             |
 |          Is MAC 48 Address          |      [✅](js/is-mac-48-address.js)      |           [✅](go/is-mac-48-address/is-mac-48-address.go)           |
-|          Is Digit                   |      [✅](js/is-digit.js)               |           [✅](go/is-mac-48-address/is-mac-48-address.go)           |
+|          Is Digit                   |      [✅](js/is-digit.js)               |           [✅](go/is-digit/is-digit.go)                             |
 
 
 ## 📈 Progress Tracker (Databases)
