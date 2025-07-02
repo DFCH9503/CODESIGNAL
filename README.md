@@ -129,6 +129,9 @@ Each folder contains solutions organized by topic. Each solution file is named a
 |        Travel Diary       |                [✅](databases/travel-diary/travel-diary.sql)               |
 |     Users By Continent    |          [✅](databases/users-by-continent/users-by-continent.sql)         |
 |     Voleyball Results     |           [✅](databases/voleyball-results/voleyball-results.sql)          |
+|     Market Report         |           [✅](databases/market-report/market-report.sql)                  |
+|     Website Hacking       |           [✅](databases/website-hacking/website-hacking.sql)              |
+
 
 > 🧠 **More problems added weekly!**
 
