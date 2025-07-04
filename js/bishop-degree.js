@@ -26,4 +26,4 @@ return false
 
 let bishop = "a1", pawn = "c3"
 
-console.log(`A bishop placed in the square ${bishop} of an astandard chess board  can capture a pawn placed in the square ${pawn}: `, bishopAndPawn(bishop, pawn))
+console.log(`A bishop placed in the square ${bishop} of a standard chess board  can capture a pawn placed in the square ${pawn}: `, bishopAndPawn(bishop, pawn))

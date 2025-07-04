@@ -18,5 +18,5 @@ return false
 func main(){
 	bishop, pawn := "a1", "c3"
 
-	fmt.Printf("A bishop placed in the square %s of an astandard chess board  can capture a pawn placed in the square %s: %v", bishop, pawn,  bishopAndPawn(bishop, pawn))
+	fmt.Printf("A bishop placed in the square %s of a standard chess board  can capture a pawn placed in the square %s: %v", bishop, pawn,  bishopAndPawn(bishop, pawn))
 }
