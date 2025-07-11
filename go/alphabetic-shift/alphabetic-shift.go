@@ -11,7 +11,7 @@ func alphabeticshift(inputString string)string{
 			char = 97
 			runeSlice = append(runeSlice, rune(int(char)))
 		}else{
-			runeSlice = append(runeSlice, rune(int(char)+1))
+			runeSlice = append(runeSlice, rune(int(char) + 1))
 		}
 	}
 	return string(runeSlice)

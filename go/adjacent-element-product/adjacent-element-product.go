@@ -7,8 +7,8 @@ import(
 func adajacentElementProduct(inputArray []int)int{
 	res := 0
 	adjacentProduct := 0
-	for i :=0 ; i < len (inputArray)-1 ; i++{
-		adjacentProduct = inputArray[i] * inputArray[i+1]
+	for i := 0 ; i < len (inputArray) - 1 ; i++{
+		adjacentProduct = inputArray[i] * inputArray[i + 1]
 		if adjacentProduct > res {
 			res = adjacentProduct
 		}

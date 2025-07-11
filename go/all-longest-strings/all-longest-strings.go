@@ -8,13 +8,13 @@ func allLongestStrings(inputArray []string)[]string{
 	maxLetterCount := 0
 	var res []string
 	for _, val := range inputArray{
-		if len(val)>maxLetterCount{
+		if len(val) > maxLetterCount{
 			maxLetterCount = len (val)
 		}
 	}
 
 	for _, val := range inputArray{
-		if len(val)==maxLetterCount{
+		if len(val) == maxLetterCount{
 			res = append(res, val)
 		}
 	}

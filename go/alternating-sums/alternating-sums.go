@@ -9,7 +9,7 @@ func alternatingSums(a []int)[]int{
     sumOdd := 0
 
 	for idx, val := range a{
-		if idx%2 == 0{
+		if idx % 2 == 0{
             sumEven += val
         }else{
             sumOdd += val

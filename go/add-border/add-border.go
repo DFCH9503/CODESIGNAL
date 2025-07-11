@@ -8,7 +8,7 @@ import (
 func addBorder(picture []string)[]string{
 	character := "*"
 	width := len(picture[0])
-	topBottomBorder := strings.Repeat(character, width+2)
+	topBottomBorder := strings.Repeat(character, width + 2)
 
 	res := []string{}
 

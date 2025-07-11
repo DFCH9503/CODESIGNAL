@@ -7,8 +7,8 @@ import(
 func arrayMaximalAdjacentDifference(inputArray []int)int{
 	res := 0
 	diff := 0
-	for i := 0; i<len(inputArray)-1; i++{
-		diff = inputArray[i] - inputArray[i+1]
+	for i := 0; i < len(inputArray) - 1; i++{
+		diff = inputArray[i] - inputArray[i + 1]
 		if diff < 0 {
 			diff *= -1
 		}
