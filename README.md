@@ -103,7 +103,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 |          Is Digit                   |      [✅](js/is-digit.js)               |           [✅](go/is-digit/is-digit.go)                             |
 |          Line Encoding              |      [✅](js/line-encoding.js)          |           [✅](go/line-encoding/line-encoding.go)                   |
 |          Chess Knight               |      [✅](js/chess-knight.js)           |           [✅](go/chess-knight/chess-knight.go)                     |
-|          Delete Digit               |      [✅](js/delete-digit.js)           |                                |
+|          Delete Digit               |      [✅](js/delete-digit.js)           |           [✅](go/delete-digit/delete-digit.go)                     |
  
 
 ## 📈 Progress Tracker (Databases)
