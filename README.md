@@ -104,6 +104,7 @@ Each folder contains solutions organized by topic. Each solution file is named a
 |          Line Encoding              |      [✅](js/line-encoding.js)          |           [✅](go/line-encoding/line-encoding.go)                   |
 |          Chess Knight               |      [✅](js/chess-knight.js)           |           [✅](go/chess-knight/chess-knight.go)                     |
 |          Delete Digit               |      [✅](js/delete-digit.js)           |           [✅](go/delete-digit/delete-digit.go)                     |
+|          Longest Word               |      [✅](js/longest-word.js)           |                                |
  
 
 ## 📈 Progress Tracker (Databases)
