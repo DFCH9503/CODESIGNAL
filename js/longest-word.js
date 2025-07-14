@@ -3,7 +3,9 @@ function longestWord(text){
     
     text = text.split(pattern)
     
-    let longest = text.reduce(function (a, b) { return a.length > b.length ? a : b })
+    let longest = text.reduce((a, b) => {
+        return a.length > b.length ? a : b
+    })
     
     return longest
 }
